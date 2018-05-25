@@ -37,6 +37,10 @@ div{
   margin: 0 auto;
 }
 
+img{
+  width: 10%;
+  margin: 0 auto;
+}
 /* .later-paragraph{
   background-color: orange;
   width: 65%;
