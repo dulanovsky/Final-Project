@@ -1,0 +1,43 @@
+*{
+margin = 0;
+padding = 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(230, 230, 210);
+}
+
+#first-paragraph {
+  color: green;
+
+}
+
+header {
+  width = 100%;
+  margin = 0;
+  bacground-color: rgb(50,50,50);
+  color: rgb(237, 237, 237);
+  text-align: center;
+  border: none;
+  border-radius: 0;
+  padding: 20px 10px;
+  margin-bottom: 20px;
+}
+
+
+div{
+  width: 70%;
+  background-color: rgb(189, 211, 255);
+  border: 1px solid red;
+  border-radius: 10px;
+  /* top bottom then left and right for
+  padding and margin */
+  padding: 0px 10px;
+  margin: 0 auto;
+}
+
+/* .later-paragraph{
+  background-color: orange;
+  width: 65%;
+} */
