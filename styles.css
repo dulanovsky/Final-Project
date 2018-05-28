@@ -53,6 +53,7 @@ div{
 img{
   width: 25%;
   margin: 0 auto;
+  overflow: hidden;
 
 }
 /* .later-paragraph{
