@@ -28,7 +28,7 @@ header {
 div{
   width: 40%;
   background-color: rgb(189, 211, 255);
-  border: 1px solid rgb(41, 84, 56);
+  border: 6px solid rgb(41, 84, 56);
   border-radius: 10px;
   /* top bottom then left and right for
   padding and margin */
