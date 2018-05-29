@@ -37,7 +37,8 @@ img{
   border-radius: 10px;
   padding: 20px 10px;
   margin-bottom: 20px;
-  background-image:url('header background.jpg');
+  border-style:groove;
+
 
 
 
