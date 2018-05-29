@@ -6,6 +6,7 @@ padding = 0;
 body {
   font-family: Arial, sans-serif;
   background-color: rgb(238, 222, 244);
+  background-image:url('lilac background.jpg');
 }
 
 div{
@@ -36,7 +37,7 @@ img{
   border-radius: 0;
   padding: 20px 10px;
   margin-bottom: 20px;
-  background-image:url('lilac background.jpg');
+
 
 
 }
