@@ -12,6 +12,18 @@ body {
 
 }
 
+
+div{
+  width: 40%;
+  background-color: rgb(189, 211, 255);
+  border: 3px solid rgb(41, 84, 56);
+  border-radius: 10px;
+  /* top bottom then left and right for
+  padding and margin */
+  padding: 0px 10px;
+  margin: 20px auto;
+}
+
 .header {
   width = 100%;
   margin = 20px;
@@ -25,18 +37,9 @@ body {
   background-image:url('lilac background.jpg');
 }
 
-
-div{
-  width: 40%;
-  background-color: rgb(189, 211, 255);
-  border: 3px solid rgb(41, 84, 56);
-  border-radius: 10px;
-  /* top bottom then left and right for
-  padding and margin */
-  padding: 0px 10px;
-  margin: 20px auto;
+.table-of-contents {
+  
 }
-
 .step{
   overflow: hidden;
   background-color: rgb(220, 242, 176);
