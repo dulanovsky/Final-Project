@@ -31,10 +31,10 @@ img{
 #header {
   width = 100%;
   margin = 20px;
-  bacground-color: rgb(220,242,176);
+  bacground-color: rgb(238,222,244);
   color: rgb(41, 84, 56);
   text-align: center;
-  border-radius: 0;
+  border-radius: 10px;
   padding: 20px 10px;
   margin-bottom: 20px;
 
@@ -43,14 +43,14 @@ img{
 }
 
 #table-of-contents {
-background-color: rgb(209, 242, 142);
+background-color: rgb(238,222,244);
 
 
 
 }
 .step{
   overflow: hidden;
-  background-color: rgb(220, 242, 176);
+  background-color: rgb(227, 242, 198);
   margin: 20px auto;
 
 }
