@@ -5,7 +5,7 @@ padding = 0;
 
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(220, 242, 176);
+  background-color: rgb(215, 195, 228);
 }
 
 
@@ -38,7 +38,7 @@ div{
 
 .step{
   overflow: hidden;
-  background-color: rgb(215, 195, 228);
+  background-color: rgb(220, 242, 176);
   margin: 20px auto;
 
 }
