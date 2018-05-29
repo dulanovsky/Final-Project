@@ -15,9 +15,9 @@ body {
 
 header {
   width = 100%;
-  margin = 0;
-  bacground-color: rgb(50,50,50);
-  color: rgb(237, 237, 237);
+  margin = 20px;
+  bacground-color: rgb(220,242,176);
+  color: rgb(41, 84, 56);
   text-align: center;
   border: none;
   border-radius: 0;
