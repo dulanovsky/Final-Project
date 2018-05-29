@@ -18,8 +18,6 @@ div{
   background-color: rgb(189, 211, 255);
   border: 3px solid rgb(41, 84, 56);
   border-radius: 10px;
-  /* top bottom then left and right for
-  padding and margin */
   padding: 0px 10px;
   margin: 20px auto;
 }
@@ -34,11 +32,11 @@ div{
   border-radius: 0;
   padding: 20px 10px;
   margin-bottom: 20px;
-  background-image:url('lilac background.jpg');
+
 }
 
 .table-of-contents {
-  
+
 }
 .step{
   overflow: hidden;
@@ -62,7 +60,7 @@ img{
   padding: 15px;
   overflow: hidden;
   border-width: 7px;
-  border-color: rhb(41, 84, 56);
+  border-color: rgb(41, 84, 56);
 
 }
 /* .later-paragraph{
