@@ -8,8 +8,7 @@ body {
   background-color: rgb(230, 230, 210);
 }
 
-#first-paragraph {
-  color: green;
+
 
 }
 
@@ -34,12 +33,14 @@ div{
   /* top bottom then left and right for
   padding and margin */
   padding: 0px 10px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 .step{
   overflow: hidden;
   background-color: rgb(215, 195, 228);
+  margin: 20px auto;
+
 }
 
 .rotateimg90 {
@@ -56,6 +57,8 @@ img{
   margin: 0 auto;
   padding: 15px;
   overflow: hidden;
+  border-width: 2px;
+  border-color: rhb(41, 84, 56);
 
 }
 /* .later-paragraph{
